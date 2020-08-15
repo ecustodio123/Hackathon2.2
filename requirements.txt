@@ -1,0 +1,8 @@
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+requests==2.24.0
+tiktok-api==0.10.5
+tqdm==4.48.2
+twitter==1.18.0
+urllib3==1.25.10
